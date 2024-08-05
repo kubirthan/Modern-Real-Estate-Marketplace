@@ -15,6 +15,10 @@ const userSchema = new mongoose.Schema({
         type:String,
         required: true,
     },
+    avatar: {
+        type: String,
+        default: "https://img.freepik.com/premium-vector/man-avatar-profile-round-icon_24640-14044.jpg?w=360"
+    },
 }, {timestamps: true})
 
 const User = mongoose.model('User', userSchema)
