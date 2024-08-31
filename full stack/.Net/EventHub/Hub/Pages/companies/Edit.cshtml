@@ -1,0 +1,24 @@
+﻿@page
+@model Hub.Pages.companies.EditModel
+@{
+}
+
+<form method="post">
+    <input asp-for="@Model.Company.id" hidden/>
+    <div class="border p-3 p-4">
+        <h2 class="text-primary pl-3">Edit company</h2>
+        <br />
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Name"></label>
+        <input asp-for="@Model.Company.Name" class="form-control" />
+        <span asp-validation-for="@Model.Company.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Location"></label>
+        <input asp-for="@Model.Company.Location" class="form-control" />
+        <span asp-validation-for="@Model.Company.Location" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:150px">Update</button>
+    <a class="btn btn-danger" asp-page="Index" style="width:150px">Back</a>
+</form>

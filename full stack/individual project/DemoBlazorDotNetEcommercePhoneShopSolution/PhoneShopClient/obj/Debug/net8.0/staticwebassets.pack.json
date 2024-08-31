@@ -1,0 +1,241 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\obj\\Debug\\net8.0\\compressed\\871bmwqlhg.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PhoneShopClient.styles.css",
+      "PackagePath": "staticwebassets\\PhoneShopClient.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\Resources\\Resources\\greaterThan.jpg",
+      "PackagePath": "staticwebassets\\Resources\\Resources\\greaterThan.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\Resources\\Resources\\lessthan.png",
+      "PackagePath": "staticwebassets\\Resources\\Resources\\lessthan.png"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\font-awesome\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\font-awesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\font-awesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kubi\\Desktop\\individual project\\DemoBlazorDotNetEcommercePhoneShopSolution\\PhoneShopClient\\wwwroot\\js\\dialog.js",
+      "PackagePath": "staticwebassets\\js\\dialog.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhoneShopClient.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhoneShopClient.props",
+      "PackagePath": "build\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhoneShopClient.props",
+      "PackagePath": "buildMultiTargeting\\PhoneShopClient.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhoneShopClient.props",
+      "PackagePath": "buildTransitive\\PhoneShopClient.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

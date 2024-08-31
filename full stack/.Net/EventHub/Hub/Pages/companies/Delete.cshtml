@@ -1,0 +1,24 @@
+﻿@page
+@model Hub.Pages.companies.DeleteModel
+@{
+}
+
+<form method="post">
+    <input asp-for="@Model.Company.id" hidden />
+    <div class="border p-3 p-4">
+        <h2 class="text-primary pl-3">Delete company</h2>
+        <br />
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Name"></label>
+        <input asp-for="@Model.Company.Name" class="form-control" disabled />
+        
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Location"></label>
+        <input asp-for="@Model.Company.Location" class="form-control" disabled />
+        
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:150px">Delete</button>
+    <a class="btn btn-danger" asp-page="Index" style="width:150px">Back</a>
+</form>

@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\controllers\\librarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|c:\\users\\kubi\\desktop\\full stack projects\\library_management_system\\api\\api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9155D4B0-C7D6-463F-89EA-365D3E8D0A12}|API\\API.csproj|solutionrelative:api\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T06:57:32.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\JwtService.cs",
+              "RelativeDocumentMoniker": "API\\JwtService.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\JwtService.cs",
+              "RelativeToolTip": "API\\JwtService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:32:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\EmailService.cs",
+              "RelativeDocumentMoniker": "API\\EmailService.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\EmailService.cs",
+              "RelativeToolTip": "API\\EmailService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAewCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T06:27:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T13:24:36.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T13:12:24.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Context.cs",
+              "RelativeDocumentMoniker": "API\\Context.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Context.cs",
+              "RelativeToolTip": "API\\Context.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T05:28:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Entities\\User.cs",
+              "RelativeToolTip": "API\\Entities\\User.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwDUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T04:38:52.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryController.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Controllers\\LibraryController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\LibraryController.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\full stack projects\\Library_management_system\\API\\API\\Controllers\\LibraryController.cs",
+              "RelativeToolTip": "API\\Controllers\\LibraryController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowEgAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T07:34:40.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

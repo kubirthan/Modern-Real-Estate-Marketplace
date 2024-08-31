@@ -1,0 +1,14 @@
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.AssemblyInfoInputs.cache
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.AssemblyInfo.cs
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.csproj.CoreCompileInputs.cache
+C:\Users\kubi\Desktop\asp.net core\oop\oop\bin\Debug\net7.0\oop.exe
+C:\Users\kubi\Desktop\asp.net core\oop\oop\bin\Debug\net7.0\oop.deps.json
+C:\Users\kubi\Desktop\asp.net core\oop\oop\bin\Debug\net7.0\oop.runtimeconfig.json
+C:\Users\kubi\Desktop\asp.net core\oop\oop\bin\Debug\net7.0\oop.dll
+C:\Users\kubi\Desktop\asp.net core\oop\oop\bin\Debug\net7.0\oop.pdb
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.dll
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\refint\oop.dll
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.pdb
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\oop.genruntimeconfig.cache
+C:\Users\kubi\Desktop\asp.net core\oop\oop\obj\Debug\net7.0\ref\oop.dll

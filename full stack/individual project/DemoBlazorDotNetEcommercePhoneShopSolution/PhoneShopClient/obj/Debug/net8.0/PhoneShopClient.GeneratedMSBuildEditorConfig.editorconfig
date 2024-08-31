@@ -1,0 +1,67 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = PhoneShopClient
+build_property.RootNamespace = PhoneShopClient
+build_property.ProjectDir = C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopClient\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopClient
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Layout/NavigationBar.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdmlnYXRpb25CYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Layout/SearchComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFNlYXJjaENvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Pages/AddOrUpdateProductComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3JVcGRhdGVQcm9kdWN0Q29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Pages/BusyButtonComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQnVzeUJ1dHRvbkNvbXBvbmVudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Pages/FrontPageComponent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnJvbnRQYWdlQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Pages/MessageDialog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVzc2FnZURpYWxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ss7aimqo11
+
+[C:/Users/kubi/Desktop/individual project/DemoBlazorDotNetEcommercePhoneShopSolution/PhoneShopClient/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-gqtmrkdm51

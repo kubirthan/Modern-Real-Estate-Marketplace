@@ -1,0 +1,72 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row shadow rounded">
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+            <div id="carouselExampleSlidesOnly" class="carousel slide " data-bs-ride="carousel">
+                <div class="carousel-inner h-100">
+                    <div class="carousel-item h-100 active">
+                        <img src="/images/carouselimages/images (3).jpg" class="d-block w-100 h-100" alt="Recipes">
+                    </div>
+                    <div class="carousel-item h-100">
+                        <img src="/images/carouselimages/images (4).jpg" class="d-block w-100 h-100" alt="Recipes">
+                    </div>
+                    <div class="carousel-item h-100">
+                        <img src="/images/carouselimages/pizzzaa.jpg" class="d-block w-100 h-100" alt="Recipes">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6">
+            <div class="mb-3">
+                <h2>Get the best <span class="text-success fst-italic">Food</span>from <span class="text-success">the best resturaents</span></h2>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fa-solid fa-seedling text-success mx-2"></i></span>
+                <span class="fs-5 text-dark fst-italic">Fresh food</span>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fa-solid fa-wheat-awn text-success mx-2 fs-4"></i></span>
+                <span class="fs-5 text-dark fst-italic">Healthy meal</span>
+            </div>
+            <div class="mb-1 p-3">
+                <span><i class="fa-solid fa-person-biking  text-success mx-2 fs-4"></i></span>
+                <span class="fs-5 text-dark fst-italic">Fastest delivery</span>
+                <p class="py-2">We promise deliver order within 30 min</p>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 mb-3">
+            <h2 class="text-dark fst-italic">Today's Special</h2>
+            <div id="todaySpecial" class="row">
+                <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 ">
+                    <div class="shadow rounded  card dishCard">
+                        <img class="card-img-top h-75" src="http://forkify-api.herokuapp.com/images/BBQChickenPizzawithCauliflowerCrust5004699695624ce.jpg" alt="dish" />
+                        <div class="card-body">
+                            <p class="card-title fw-bold">Pizza</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 ">
+                    <div class="shadow rounded  card dishCard">
+                        <img class="card-img-top h-75" src="http://forkify-api.herokuapp.com/images/gelatin_poke_cake2d07.jpg" alt="dish" />
+                        <div class="card-body">
+                            <p class="card-title fw-bold">Cake</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-md-4 col-lg-4 col-xl-4 ">
+                    <div class="shadow rounded  card dishCard">
+                        <img class="card-img-top h-75" src="http://forkify-api.herokuapp.com/images/344130b63.jpg" alt="dish" />
+                        <div class="card-body">
+                            <p class="card-title fw-bold">Strawberry</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,10 @@
+.topcontainer{
+    background-image: url("../../assets/kubi.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+    
+}
+

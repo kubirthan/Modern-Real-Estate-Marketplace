@@ -1,0 +1,86 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+
+
+.text-pink {
+    color: #ff1448 !important;
+}
+
+.nav-link {
+    letter-spacing: 2px;
+}
+
+#carouselExampleSlidesOnly {
+    height: 400px;
+}
+
+footer {
+    background-color: #0d243d;
+}
+
+header {
+    z-index: 1000;
+}
+
+.dishCard {
+    height: 250px;
+}
+
+.fa-instagram {
+    color: #bc2a8d;
+}
+
+.fa-whatsapp {
+    color: #128c7e;
+}
+
+.fa-facebook {
+    color: #3b5998;
+}
+
+.fa-envelope {
+    color: #075e54;
+}
+
+#recipe-list {
+    top: 5rem;
+}
+
+    #recipe-list ul::-webkit-scrollbar {
+        width: 10px;
+    }
+
+    #recipe-list ul::-webkit-scrollbar-track {
+        background-color: #ffffff;
+    }
+
+    #recipe-list ul::-webkit-scrollbar-thumb {
+        background-color: #ff1448;
+        border-radius: 10px;
+    }
+
+.recipe-item:hover{
+    background-color:#0d243d;
+    border-radius:10px;
+}
+
+.recipe-item:hover a{
+    color:#ffffff !important;
+}

@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Recipe";
+}
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12">
+            @Html.Partial("_SearchBar")
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-2">
+            <div class="shadow rounded position-sticky" id="recipe-list">
+                <div class="border-bottom border-3 p-2">
+                    <h4 class="text-pink text-center fst-italic">Recipes</h4>
+                    @Html.Partial("_SideMenu")
+                </div>
+            </div>
+        </div>
+        <div class="col-10">
+            <div class="mb-3">
+                <h4 class="text-dark">Pizza</h4>
+                <div class="row" id="pizzaRecipe"></div>
+            </div>
+            <div class="mb-3">
+                <h4 class="text-dark">Cake</h4>
+                <div class="row" id="cakeRecipe"></div>
+            </div>
+            <div class="mb-3">
+                <h4 class="text-dark">Strawberry</h4>
+                <div class="row" id="strawberryRecipe"></div>
+            </div>
+            <div class="mb-3">
+                <h4 class="text-dark">Chocolate</h4>
+                <div class="row" id="chocolateRecipe"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="./lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        GetRecipes("Pizza", "pizzaRecipe" , false);
+        GetRecipes("Cake", "cakeRecipe", false);
+        GetRecipes("Strawberry", "strawberryRecipe", false);
+        GetRecipes("Chocolate", "chocolateRecipe", false);
+    })
+</script>

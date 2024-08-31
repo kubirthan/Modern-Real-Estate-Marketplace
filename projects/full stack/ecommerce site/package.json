@@ -1,0 +1,21 @@
+{
+  "name": "ecommerce-site",
+  "version": "1.0.0",
+  "description": "mern stack project",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js",
+    "dev" : "set NODE_ENV=developemnt && nodemon backend/server.js",
+    "prod":"set NODE_ENV=production && nodemon backend/server.js"
+  },
+  "author": "kubi",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

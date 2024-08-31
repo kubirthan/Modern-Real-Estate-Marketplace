@@ -1,0 +1,90 @@
+.skillcontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0;
+
+}
+
+.skillContainer__text{
+    color: white;
+    flex: 0.6;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.skillContainer__text > h2{
+    font-size: 30px;
+}
+
+.skillContainer__img{
+    flex: 0.4;
+    text-align: center;
+    margin-right: 100px;
+}
+
+.skillContainer__img > img{
+    width: 600px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+
+.skillContainer__skillset > h5{
+    font-family: sans-serif;
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.skillContainer__slider > .css-eglki6-MuiLinearProgress-root {
+    background-color: rgb(88, 88, 88);
+}
+
+.skillContainer__slider1 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(35, 27, 145);
+}
+
+.skillContainer__slider2 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(17, 181, 129);
+}
+
+.skillContainer__slider3 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(35, 27, 145);
+}
+
+.skillContainer__slider4 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(199, 91, 13);
+}
+
+.skillContainer__slider5 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(170, 212, 4);
+}
+
+.skillContainer__slider6 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(172, 208, 26);
+}
+
+.skillContainer__slider7 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(16, 215, 76);
+}
+
+.skillContainer__slider8 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(7, 54, 37);
+}
+
+.skillContainer__slider9 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(32, 214, 68);
+}
+
+.skillContainer__slider10 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(27, 17, 168);
+}
+
+.skillContainer__slider10 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(11, 112, 170);
+}
+
+.skillContainer__slider12 > span > .css-5xe99f-MuiLinearProgress-bar1{
+    background-color: rgb(165, 11, 11);
+}

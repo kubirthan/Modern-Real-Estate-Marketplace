@@ -1,0 +1,70 @@
+.topcontent{
+    color: white;
+}
+
+.topcontent__container{
+    position: absolute;
+    top: 300px;
+    right: 200px;
+}
+
+.topcontent__container > p{
+    letter-spacing:1px;
+    text-align:left;
+    padding-left:3px;
+    padding-top: 20px;
+}
+
+.topcontent__container > a > button{
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+}
+
+
+.topcontent__container > h1{
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+.topcontent__downloadbutton{
+    color: white;
+    background-color: orangered;
+    font-size: 14px;
+    padding: 10px 30px;
+    font-family: sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.topcontent__downloadbutton:hover{
+    color: orangered;
+    background-color: white;
+    font-weight: 600;
+    
+}
+
+
+.topcontent__workbutton{
+    color: white;
+    border: 1px solid white !important ;
+    background-color: transparent;
+    font-size: 14px;
+    padding: 9px 45px;
+    font-family: sans-serif;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.topcontent__workbutton:hover{
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    
+}
+
+

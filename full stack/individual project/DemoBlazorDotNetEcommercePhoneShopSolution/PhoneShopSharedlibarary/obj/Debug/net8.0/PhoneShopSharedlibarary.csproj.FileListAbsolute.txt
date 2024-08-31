@@ -1,0 +1,11 @@
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\bin\Debug\net8.0\PhoneShopSharedlibarary.deps.json
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\bin\Debug\net8.0\PhoneShopSharedlibarary.dll
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\bin\Debug\net8.0\PhoneShopSharedlibarary.pdb
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.AssemblyInfoInputs.cache
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.AssemblyInfo.cs
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.csproj.CoreCompileInputs.cache
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.dll
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\refint\PhoneShopSharedlibarary.dll
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\PhoneShopSharedlibarary.pdb
+C:\Users\kubi\Desktop\individual project\DemoBlazorDotNetEcommercePhoneShopSolution\PhoneShopSharedlibarary\obj\Debug\net8.0\ref\PhoneShopSharedlibarary.dll

@@ -1,0 +1,35 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    margin: 200px 0 100px;
+    align-items: center;
+}
+
+.contact__container{
+    border: 1px solid white;
+    width: 600px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+.contact__container > p{
+    font-size: 20px;
+    text-align: left;
+    padding-bottom: 30px;
+
+}
+
+.contact__container > p > span{
+    color: #f64c08;
+}
+
+.contact__icons > a > button{
+    color: white;
+}
+

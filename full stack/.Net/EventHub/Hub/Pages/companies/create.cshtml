@@ -1,0 +1,22 @@
+﻿@page
+@model Hub.Pages.companies.createModel
+@{
+}
+
+<form method="post">
+    <div class="border p-3 p-4">
+        <h2 class="text-primary pl-3">Create company</h2>
+        <br/>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Name"></label>
+        <input asp-for="@Model.Company.Name" class="form-control"/>
+        <span asp-validation-for="@Model.Company.Name" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Company.Location"></label>
+        <input asp-for="@Model.Company.Location" class="form-control" />
+        <span asp-validation-for="@Model.Company.Location" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary" style="width:150px">Create</button>
+</form>

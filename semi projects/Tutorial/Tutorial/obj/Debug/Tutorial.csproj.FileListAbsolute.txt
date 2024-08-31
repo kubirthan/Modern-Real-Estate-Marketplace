@@ -1,0 +1,7 @@
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.AssemblyReference.cache
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\kubi\Desktop\semi projects\Tutorial\Tutorial\obj\Debug\Tutorial.pdb

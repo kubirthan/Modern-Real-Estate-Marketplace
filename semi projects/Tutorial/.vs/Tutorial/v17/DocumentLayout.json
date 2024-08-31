@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubi\\Desktop\\semi projects\\Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A87F96E-ABF5-4CBF-9F2A-5F55752C9A45}|Tutorial\\Tutorial.csproj|c:\\users\\kubi\\desktop\\semi projects\\tutorial\\tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A87F96E-ABF5-4CBF-9F2A-5F55752C9A45}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A87F96E-ABF5-4CBF-9F2A-5F55752C9A45}|Tutorial\\Tutorial.csproj|c:\\users\\kubi\\desktop\\semi projects\\tutorial\\tutorial\\comapny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A87F96E-ABF5-4CBF-9F2A-5F55752C9A45}|Tutorial\\Tutorial.csproj|solutionrelative:tutorial\\comapny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Comapny.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\semi projects\\Tutorial\\Tutorial\\Comapny.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Comapny.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\semi projects\\Tutorial\\Tutorial\\Comapny.cs",
+              "RelativeToolTip": "Tutorial\\Comapny.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:49:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubi\\Desktop\\semi projects\\Tutorial\\Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\kubi\\Desktop\\semi projects\\Tutorial\\Tutorial\\Program.cs",
+              "RelativeToolTip": "Tutorial\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:46:42.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
